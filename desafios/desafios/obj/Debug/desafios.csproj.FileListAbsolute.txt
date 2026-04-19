@@ -1,0 +1,5 @@
+C:\Users\josel\Documents\SharpDevelop Projects\desafios\desafios\obj\Debug\desafios.csprojResolveAssemblyReference.cache
+C:\Users\josel\Documents\SharpDevelop Projects\desafios\desafios\bin\Debug\desafios.exe
+C:\Users\josel\Documents\SharpDevelop Projects\desafios\desafios\bin\Debug\desafios.pdb
+C:\Users\josel\Documents\SharpDevelop Projects\desafios\desafios\obj\Debug\desafios.exe
+C:\Users\josel\Documents\SharpDevelop Projects\desafios\desafios\obj\Debug\desafios.pdb
